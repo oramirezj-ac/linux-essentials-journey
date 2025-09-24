@@ -18,19 +18,21 @@ The primary goal of this project is to create a comprehensive, well-organized pe
 
 This repository is structured to align with the official domains of the Linux Essentials certification. Each main directory corresponds to a specific topic area, ensuring a logical and easy-to-follow layout.
 
-/ ├── 📁 00_Introduction
-/ ├── 📁 01_The_Linux_Community_and_a_Career_in_Open_Source
-/ ├── 📁 02_Finding_Your_Way_on_a_Linux_System
-/ ├── 📁 03_The_Power_of_the_Command_Line
-/ ├── 📁 04_The_Linux_Operating_System
-/ ├── 📁 05_Security_and_File_Permissions
-/ ├── 📁 assets
-/ │ ├── images
-/ │ └── scripts
+```
+/
+├── 📁 00_Introduction/
+├── 📁 01_The_Linux_Community_and_a_Career_in_Open_Source/
+├── 📁 02_Finding_Your_Way_on_a_Linux_System/
+├── 📁 03_The_Power_of_the_Command_Line/
+├── 📁 04_The_Linux_Operating_System/
+├── 📁 05_Security_and_File_Permissions/
+├── 📁 assets/
+│   ├── images/
+│   └── scripts/
 ├── 📄 .gitignore
-├── 📄 LICENSE 
+├── 📄 LICENSE
 └── 📄 README.md
-
+```
 
 ## 🛠️ Tools and Environment
 
